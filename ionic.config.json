@@ -1,0 +1,7 @@
+{
+  "name": "ionic-mosum-v5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
